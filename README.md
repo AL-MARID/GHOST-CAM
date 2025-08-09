@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="GHOST-CAM_.jpg" alt="GHOST-CAM" width="400" style="border-radius:12px; box-shadow: 0 4px 15px rgba(233,69,96,0.7);" />
+</p>
+
+
+
+<p align="center">
   <img 
     src="GHOST-CAM..jpg" 
     alt="GHOST-CAM" 

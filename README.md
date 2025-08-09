@@ -30,39 +30,39 @@ The main features of the tool are:
 git clone https://github.com/AL-MARID/GHOST-CAM.git
 
 ```
-## Enter the tool directory
+Enter the tool directory
 
 ```bash
 cd GHOST-CAM
 
 ```
 
-# Give execute permission to the 
+Give execute permission to the 
 install script
 ```bash
 chmod +x install.sh
 
 ```
-# Run the install script
+Run the install script
 
 ```bash
 ./install.sh
 
 ```
-# Give execute permission to the tool file
+Give execute permission to the tool file
 
 ```bash
 chmod +x bin/GHOST-CAM.rb
 
 ```
-# Run the tool directly (make sure it has execute permission)
+Run the tool directly (make sure it has execute permission)
 
 ```bash
 ./bin/GHOST-CAM.rb
 
 ```
 
-# Run the tool using Ruby interpreter (no execute permission needed)
+Run the tool using Ruby interpreter (no execute permission needed)
 
 ```bash
 ruby bin/GHOST-CAM.rb

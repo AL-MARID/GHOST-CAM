@@ -4,7 +4,7 @@
       <img src="GHOST-CAM_.jpg" alt="GHOST-CAM" width="400" style="border-radius:15px; box-shadow: 0 10px 30px rgba(233,69,96,0.7);" />
     </td>
   </tr>
-</table>
+</table
 
 
 
